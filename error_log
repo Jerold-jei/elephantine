@@ -1,0 +1,41 @@
+[20-Feb-2023 04:23:28 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/abite7kr/public_html/elephantine2/model/config.php on line 7
+[20-Feb-2023 04:23:28 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/abite7kr/public_html/elephantine2/model/config.php on line 7
+[20-Feb-2023 04:23:28 UTC] PHP Warning:  Undefined array key "g-recaptcha-response" in /home1/abite7kr/public_html/elephantine2/contact_form.php on line 17
+[20-Feb-2023 04:23:28 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home1/abite7kr/public_html/elephantine2/contact_form.php:118
+Stack trace:
+#0 /home1/abite7kr/public_html/elephantine2/contact_form.php(118): mysqli_query(false, 'INSERT INTO `co...')
+#1 {main}
+  thrown in /home1/abite7kr/public_html/elephantine2/contact_form.php on line 118
+[20-Feb-2023 04:25:01 UTC] PHP Warning:  Undefined array key "g-recaptcha-response" in /home1/abite7kr/public_html/elephantine2/contact_form.php on line 17
+[20-Feb-2023 10:05:02 UTC] PHP Warning:  Undefined array key "g-recaptcha-response" in /home1/abite7kr/public_html/elephantine2/vision_venture_form.php on line 17
+[23-Feb-2023 10:43:06 UTC] PHP Warning:  Undefined array key "g-recaptcha-response" in /home1/abite7kr/public_html/elephantine-version1/contact_form.php on line 17
+[23-Feb-2023 10:54:17 UTC] PHP Warning:  Undefined array key "g-recaptcha-response" in /home1/abite7kr/public_html/elephantine-version1/bliss_form.php on line 17
+[23-Feb-2023 10:54:59 UTC] PHP Warning:  Undefined array key "g-recaptcha-response" in /home1/abite7kr/public_html/elephantine-version1/noombal_form.php on line 17
+[23-Feb-2023 10:55:42 UTC] PHP Warning:  Undefined array key "g-recaptcha-response" in /home1/abite7kr/public_html/elephantine-version1/future_project_form.php on line 17
+[23-Feb-2023 10:56:28 UTC] PHP Warning:  Undefined array key "g-recaptcha-response" in /home1/abite7kr/public_html/elephantine-version1/holiday_homes_form.php on line 17
+[23-Feb-2023 10:57:02 UTC] PHP Warning:  Undefined array key "g-recaptcha-response" in /home1/abite7kr/public_html/elephantine-version1/commercial_form.php on line 17
+[23-Feb-2023 10:58:03 UTC] PHP Warning:  Undefined array key "g-recaptcha-response" in /home1/abite7kr/public_html/elephantine-version1/logistics_form.php on line 17
+[23-Feb-2023 10:58:40 UTC] PHP Warning:  Undefined array key "g-recaptcha-response" in /home1/abite7kr/public_html/elephantine-version1/mlm_form.php on line 17
+[23-Feb-2023 10:59:17 UTC] PHP Warning:  Undefined array key "g-recaptcha-response" in /home1/abite7kr/public_html/elephantine-version1/aggregation_form.php on line 17
+[23-Feb-2023 11:00:08 UTC] PHP Warning:  Undefined array key "g-recaptcha-response" in /home1/abite7kr/public_html/elephantine-version1/land_owner_form.php on line 17
+[23-Feb-2023 11:00:57 UTC] PHP Warning:  Undefined array key "g-recaptcha-response" in /home1/abite7kr/public_html/elephantine-version1/contact_form.php on line 17
+[23-Feb-2023 11:06:51 UTC] PHP Warning:  Undefined array key "g-recaptcha-response" in /home1/abite7kr/public_html/elephantine-version1/pristine_form.php on line 17
+[23-Feb-2023 11:11:38 UTC] PHP Warning:  Undefined array key "g-recaptcha-response" in /home1/abite7kr/public_html/elephantine-version1/home_form.php on line 17
+[02-Mar-2023 19:27:16 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'elephant_admin'@'localhost' (using password: YES) in /home/elephant/public_html/elephantine-new/model/config.php on line 7
+[02-Mar-2023 19:27:16 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'elephant_admin'@'localhost' (using password: YES) in /home/elephant/public_html/elephantine-new/model/config.php on line 7
+[02-Mar-2023 19:27:16 Asia/Kolkata] PHP Notice:  Undefined index: g-recaptcha-response in /home/elephant/public_html/elephantine-new/bliss_form.php on line 17
+[02-Mar-2023 19:27:17 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/elephant/public_html/elephantine-new/bliss_form.php on line 112
+[02-Mar-2023 19:29:20 Asia/Kolkata] PHP Notice:  Undefined index: g-recaptcha-response in /home/elephant/public_html/elephantine-new/bliss_form.php on line 17
+[03-Mar-2023 12:25:38 Asia/Kolkata] PHP Notice:  Undefined index: g-recaptcha-response in /home/elephant/public_html/elephantine-new/bliss_form.php on line 17
+[03-Mar-2023 12:27:35 Asia/Kolkata] PHP Notice:  Undefined index: g-recaptcha-response in /home/elephant/public_html/elephantine-new/bliss_form.php on line 17
+[03-Mar-2023 12:35:52 Asia/Kolkata] PHP Notice:  Undefined index: g-recaptcha-response in /home/elephant/public_html/elephantine-new/bliss_form.php on line 17
+[03-Mar-2023 12:38:19 Asia/Kolkata] PHP Notice:  Undefined index: g-recaptcha-response in /home/elephant/public_html/elephantine-new/bliss_form.php on line 17
+[03-Mar-2023 12:41:54 Asia/Kolkata] PHP Notice:  Undefined index: g-recaptcha-response in /home/elephant/public_html/elephantine-new/bliss_form.php on line 17
+[03-Mar-2023 12:43:31 Asia/Kolkata] PHP Notice:  Undefined index: g-recaptcha-response in /home/elephant/public_html/elephantine-new/bliss_form.php on line 17
+[03-Mar-2023 12:44:20 Asia/Kolkata] PHP Notice:  Undefined index: g-recaptcha-response in /home/elephant/public_html/elephantine-new/bliss_form.php on line 17
+[03-Mar-2023 12:48:30 Asia/Kolkata] PHP Notice:  Undefined index: g-recaptcha-response in /home/elephant/public_html/elephantine-new/bliss_form.php on line 17
+[03-Mar-2023 12:55:09 Asia/Kolkata] PHP Notice:  Undefined index: g-recaptcha-response in /home/elephant/public_html/elephantine-new/bliss_form.php on line 17
+[03-Mar-2023 12:55:57 Asia/Kolkata] PHP Notice:  Undefined index: g-recaptcha-response in /home/elephant/public_html/elephantine-new/bliss_form.php on line 17
+[03-Mar-2023 12:57:20 Asia/Kolkata] PHP Notice:  Undefined index: g-recaptcha-response in /home/elephant/public_html/elephantine-new/bliss_form.php on line 17
+[03-Mar-2023 13:03:50 Asia/Kolkata] PHP Notice:  Undefined index: g-recaptcha-response in /home/elephant/public_html/elephantine-new/bliss_form.php on line 17
+[03-Mar-2023 13:06:21 Asia/Kolkata] PHP Notice:  Undefined index: g-recaptcha-response in /home/elephant/public_html/elephantine-new/bliss_form.php on line 17
